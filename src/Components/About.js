@@ -1,7 +1,7 @@
 function About() {
     return (
       <div>
-        <h2>About page Co</h2>
+        <h2>About page</h2>
         <p>This is the About .Component</p>
       </div>
     )
